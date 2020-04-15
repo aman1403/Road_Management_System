@@ -613,6 +613,7 @@ app.put('/documents/upvotes/:id', function(req, res){
      });
   });
   });
+//Aman 
 app.put('/documents/downvotes/:id', function(req, res){
   Document.findOne({'_id':req.params.id}).then(complaints =>{
      complaints.downvote = !(complaints.downvote);
