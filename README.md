@@ -2,9 +2,9 @@
 
 This was the problem of the hackathon:-
 
-#Roads’ Leasing and Maintenance:
+Roads’ Leasing and Maintenance:
 
-1.When Government leases roads to contractors, it has no way of checking the progress of the project and has to rely on manual surveys and what not.
+1. When Government leases roads to contractors, it has no way of checking the progress of the project and has to rely on manual surveys and what not.
 
 2. Further, maintenance of the leased road is a huge pain. The government must perform regular surveys to check whether the road is in good condition.
 
